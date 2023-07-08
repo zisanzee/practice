@@ -5,7 +5,7 @@ header {
   display: flex;
 
 
-  background: url('/images/banner/banner2.png');
+  background: url('../images/banner/banner2.png');
   background-repeat: no-repeat;
   background-size: cover;
   justify-content: end;
